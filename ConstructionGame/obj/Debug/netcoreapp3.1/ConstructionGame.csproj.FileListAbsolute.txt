@@ -1,0 +1,14 @@
+/Users/macbookpromid2012/Projects/ConstructionGame/ConstructionGame/bin/Debug/netcoreapp3.1/ConstructionGame
+/Users/macbookpromid2012/Projects/ConstructionGame/ConstructionGame/bin/Debug/netcoreapp3.1/ConstructionGame.deps.json
+/Users/macbookpromid2012/Projects/ConstructionGame/ConstructionGame/bin/Debug/netcoreapp3.1/ConstructionGame.runtimeconfig.json
+/Users/macbookpromid2012/Projects/ConstructionGame/ConstructionGame/bin/Debug/netcoreapp3.1/ConstructionGame.runtimeconfig.dev.json
+/Users/macbookpromid2012/Projects/ConstructionGame/ConstructionGame/bin/Debug/netcoreapp3.1/ConstructionGame.dll
+/Users/macbookpromid2012/Projects/ConstructionGame/ConstructionGame/bin/Debug/netcoreapp3.1/ConstructionGame.pdb
+/Users/macbookpromid2012/Projects/ConstructionGame/ConstructionGame/obj/Debug/netcoreapp3.1/ConstructionGame.csproj.AssemblyReference.cache
+/Users/macbookpromid2012/Projects/ConstructionGame/ConstructionGame/obj/Debug/netcoreapp3.1/ConstructionGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpromid2012/Projects/ConstructionGame/ConstructionGame/obj/Debug/netcoreapp3.1/ConstructionGame.AssemblyInfoInputs.cache
+/Users/macbookpromid2012/Projects/ConstructionGame/ConstructionGame/obj/Debug/netcoreapp3.1/ConstructionGame.AssemblyInfo.cs
+/Users/macbookpromid2012/Projects/ConstructionGame/ConstructionGame/obj/Debug/netcoreapp3.1/ConstructionGame.csproj.CoreCompileInputs.cache
+/Users/macbookpromid2012/Projects/ConstructionGame/ConstructionGame/obj/Debug/netcoreapp3.1/ConstructionGame.dll
+/Users/macbookpromid2012/Projects/ConstructionGame/ConstructionGame/obj/Debug/netcoreapp3.1/ConstructionGame.pdb
+/Users/macbookpromid2012/Projects/ConstructionGame/ConstructionGame/obj/Debug/netcoreapp3.1/ConstructionGame.genruntimeconfig.cache
